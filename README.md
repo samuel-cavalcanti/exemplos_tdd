@@ -1,6 +1,6 @@
 # Exemplos TDD
 
-Nó livro TDD desenvolvimento guiado por testes de _Kent Beck_
+No livro TDD desenvolvimento guiado por testes de _Kent Beck_
 para demonstrar a sua técnica de desenvolvimento, kent faz duas demonstrações:
 
 - a primeira demonstração uma utilizando Junit ele implementa o dinheiro multi-moeda. Foi usado kotlin ao invés de usar java para implementar esse exemplo: [Exemplo Financeiro](TheMoneyExempleTDD/src)
